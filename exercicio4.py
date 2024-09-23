@@ -2,6 +2,7 @@ n1 = float(input("digite valor do premio  "))
 
 a=n1*0.07
 
+
 a1=a*0.46
 
 a2=a*0.32
